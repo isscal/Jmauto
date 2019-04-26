@@ -61,6 +61,7 @@ vars.put(&quot;Jtxid&quot;,txid);
 //String nonceStr = &quot;${get_nonce}&quot;;
 //
 //log.info(&quot;*******************************开始执行方法*******************************************&quot;);
+//log.info(&quot;*******************************开始执行方法*******************************************&quot;);
 //String signTemp = new Api().signTx(nonceStr, addressFrom, addressTo, amount, gasPriceStr, gasLimitStr, mnemonic);
 ////System.out.print(signTemp);
 //vars.put(&quot;sigTx&quot;,signTemp);
